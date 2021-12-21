@@ -1,0 +1,6 @@
+url: "https://robot-dreams-de-api.herokuapp.com"
+endpoint_A: "auth"
+username: "rd_dreams"
+password: "djT6LasE"
+endpoint_S: "out_of_stock"
+file_name: 'ddd.json'
